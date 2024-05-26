@@ -28,5 +28,5 @@ tags: ["eventloop", "лайфхак"]
 
 P.S. И, пожалуйста, если у вас вдруг появится желание вместо ссылки или submit кнопки сделать свою кнопку с onclick обработчиком, оторвите себе руки.
 
-![](/assets/event_loop/slow_way.mov)
-![](/assets/event_loop/fast_way.mov)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7nRl2tIxIYE?si=ZIe2dzxKAx64kyWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3nLSGRsbEA?si=WjNLzgepfoYFQNXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
